@@ -26,7 +26,7 @@ import { HeroesComponent } from './components/heroes/heroes.component';
     APP_ROUTING
   ],
   providers: [
-    HeroesService;
+    HeroesService
   ],
   bootstrap: [AppComponent]
 })
